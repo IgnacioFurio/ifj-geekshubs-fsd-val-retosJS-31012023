@@ -250,6 +250,7 @@ conocidos sus dos catetos. */
 // un algoritmo que intercambie los valores de ambas variables y muestre cuánto
 // valen al final las dos variables (recuerda la asignación).
 
+//  PISTA https://keepcoding.io/blog/pasar-variable-por-valor-referencia-javascript/
 
 let numA = parseInt(prompt("Introduce un numero"))
 let numB = parseInt(prompt("Introduce otro numero"))
